@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T20:07:18.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Zm3WdopZDresMYv7t5IF" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T20:22:36.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="woRlcKujE-U3tCOWlaOw" version="13.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3197" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5209" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -139,7 +139,7 @@
           <mxGeometry x="20" y="710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="161" width="479" height="479" as="geometry" />
+          <mxGeometry x="-800" y="161" width="359" height="359" as="geometry" />
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-58" value="&lt;ul&gt;&lt;li&gt;Open flashcard app&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-800" y="161" width="160" height="40" as="geometry" />
@@ -147,17 +147,17 @@
         <mxCell id="l96hs2-_nlqCzScLkACY-60" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;ONBOARDING&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-802" y="180" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l96hs2-_nlqCzScLkACY-61" value="&lt;ul&gt;&lt;li&gt;sign in / sign up&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-794" y="201" width="140" height="40" as="geometry" />
+        <mxCell id="l96hs2-_nlqCzScLkACY-61" value="&lt;ul&gt;&lt;ul&gt;&lt;li&gt;sign in / sign up&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-809" y="201" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l96hs2-_nlqCzScLkACY-62" value="&lt;ul&gt;&lt;li&gt;HOME SCREEN&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-798" y="224" width="140" height="40" as="geometry" />
+        <mxCell id="l96hs2-_nlqCzScLkACY-62" value="&lt;ul&gt;&lt;li&gt;HOME SCREEN MENU&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-799" y="224" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l96hs2-_nlqCzScLkACY-63" value="&lt;ul&gt;&lt;li&gt;create flashcard&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="243" width="140" height="40" as="geometry" />
+        <mxCell id="l96hs2-_nlqCzScLkACY-63" value="&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;select create flashcard&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-860" y="243" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l96hs2-_nlqCzScLkACY-64" value="&lt;ul&gt;&lt;li&gt;create flashcard&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="264" width="140" height="40" as="geometry" />
+        <mxCell id="l96hs2-_nlqCzScLkACY-64" value="&lt;ul&gt;&lt;li&gt;input front and back info&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-798" y="264" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l96hs2-_nlqCzScLkACY-65">
           <mxGeometry relative="1" as="geometry">
@@ -229,6 +229,18 @@
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-91" value="save" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="l96hs2-_nlqCzScLkACY-90">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96hs2-_nlqCzScLkACY-94" value="&lt;ul&gt;&lt;li&gt;review card&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-802" y="283" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l96hs2-_nlqCzScLkACY-95" value="&lt;ul&gt;&lt;ul&gt;&lt;li&gt;save or edit&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-822" y="304" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l96hs2-_nlqCzScLkACY-97" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;flashcard created&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-840" y="323" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l96hs2-_nlqCzScLkACY-98" value="&lt;ul&gt;&lt;ul&gt;&lt;li&gt;return to home screen menu or create a new card&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-820" y="344" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
