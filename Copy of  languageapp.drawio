@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T17:27:02.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="IQZg9fbnjQdQdhqWFZOq" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T17:29:55.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="_MwX8gnskqZjNKYXiRJP" version="13.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3076" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,8 +39,8 @@
             <mxPoint x="-30" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l96hs2-_nlqCzScLkACY-1" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;TASK ANALYSIS /&amp;nbsp;&lt;/font&gt;USER GOAL: &lt;span style=&quot;font-weight: normal&quot;&gt;TO CREATE A NEW FLASHCARD&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;ENTRY POINT:&lt;/b&gt;&amp;nbsp;FLASHCARD APP&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;SUCCESS CRITERIA:&lt;/b&gt;&lt;span style=&quot;font-size: 16px&quot;&gt; CREATE FLASHCARD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-800" y="42" width="510" height="130" as="geometry" />
+        <mxCell id="l96hs2-_nlqCzScLkACY-1" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;TASK ANALYSIS&lt;/font&gt;: &lt;span style=&quot;font-weight: normal&quot;&gt;TO REVIEW/STUDY FROM A SET OF FLASHCARDS&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ENTRY POINT:&lt;/b&gt;&amp;nbsp;FLASHCARD APP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;ONLY THOSE USERS WHO HAVE CREATED AT LEAST ONE FLASHCARD CAN ACCESS FC SETS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;SUCCESS CRITERIA:&lt;/b&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&amp;nbsp;REVIEW/STUDY&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-800" y="37" width="650" height="140" as="geometry" />
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;USER FLOW&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-250" y="11" width="110" height="20" as="geometry" />
@@ -89,8 +89,8 @@
         <mxCell id="l96hs2-_nlqCzScLkACY-60" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;ONBOARDING&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-802" y="180" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l96hs2-_nlqCzScLkACY-61" value="&lt;ul&gt;&lt;ul&gt;&lt;li&gt;sign in / sign up&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-809" y="201" width="180" height="40" as="geometry" />
+        <mxCell id="l96hs2-_nlqCzScLkACY-61" value="&lt;ul&gt;&lt;ul&gt;&lt;li&gt;sign in&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-809" y="201" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-62" value="&lt;ul&gt;&lt;li&gt;HOME SCREEN MENU&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-799" y="224" width="180" height="40" as="geometry" />
