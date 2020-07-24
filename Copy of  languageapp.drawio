@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T17:03:42.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="S1s5PU_0VztuTMs0KUdq" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T17:06:30.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="hqkq0jHxsIxHGQ9WN1i9" version="13.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2012" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="5_xVZ5PCrMn_Ow3XCvqy-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeColor=#09555B;fontColor=#1A1A1A;sketch=1;fontFamily=Comic Sans MS;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="5_xVZ5PCrMn_Ow3XCvqy-189" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="HOME&lt;br&gt;SCREEN" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;sketch=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="QUICK MENU&lt;br&gt;(home)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;sketch=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="100" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l96hs2-_nlqCzScLkACY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1A1A1A;sketch=1;fontFamily=Comic Sans MS;strokeColor=#28AD00;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l96hs2-_nlqCzScLkACY-25" target="l96hs2-_nlqCzScLkACY-23" edge="1">
@@ -241,7 +241,7 @@
             <mxPoint x="710" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIxJLdt_OvNl8f14rRNx-31" value="NO/ REVIEW STUDY /&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wIxJLdt_OvNl8f14rRNx-30">
+        <mxCell id="wIxJLdt_OvNl8f14rRNx-31" value="NO - REVIEW STUDY / QUICK MENU&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wIxJLdt_OvNl8f14rRNx-30">
           <mxGeometry x="-0.4397" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
